@@ -1,4 +1,4 @@
-//package com.myproject.gatling
+package com.myproject.gatling
 import scala.concurrent.duration._
 
 import io.gatling.core.Predef._
