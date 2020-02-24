@@ -1,0 +1,10 @@
+{
+  "simulation": "WebServiceSimulation",
+  "simulationId": "webservicesimulation",
+  "start": 1582546015004,
+  "description": "",
+  "scenarios": ["WebServiceSimulation"],
+  "assertions": [
+
+  ]
+}
